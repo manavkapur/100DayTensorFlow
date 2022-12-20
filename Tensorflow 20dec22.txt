@@ -1,0 +1,12 @@
+topics covered
+
+fundamentals: 
+tensorflow constant and variable
+scalar vector matrix and tensor
+shuffle order
+global and operational seeds
+numpy and tensor
+shape rank dimension and size
+
+
+
